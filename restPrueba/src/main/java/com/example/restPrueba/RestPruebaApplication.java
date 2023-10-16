@@ -14,7 +14,7 @@ public class RestPruebaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestPruebaApplication.class, args);
-		System.out.println("Volvi a funcionar ashee");
+		System.out.println("Estoy funcionando correctamente");
 
 	}
 
